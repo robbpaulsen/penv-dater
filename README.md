@@ -18,7 +18,7 @@
 
 ---
 
-## disclaimer
+## Disclaimer
 
 The script assumes that your environment variables and path declarations are inside the `$XDG_CONFIG_HOME/zsh`, and appends/modifies paths/variables to `.zprofile`
 
