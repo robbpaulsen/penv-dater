@@ -56,7 +56,7 @@ Before using this script, you need to have the following installed:
 
 ```bash
 
-git clone [https://robbpaulsen/penv-dater.git]
+git clone https://robbpaulsen/penv-dater.git
 ```
 
 2. Navigate to the repository directory:
