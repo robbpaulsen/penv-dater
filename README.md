@@ -1,7 +1,6 @@
 # Add Paths and Environment Variables Script
 
-**Author:** [Your Name]
-**License:** [Your License]
+**Author: robbpaulsen**
 
 ---
 
